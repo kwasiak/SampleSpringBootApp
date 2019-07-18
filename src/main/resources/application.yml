@@ -1,0 +1,7 @@
+server:
+  port: 8090
+
+com:
+  example:
+    config_param1: 10
+    config_param2: 20
